@@ -3,8 +3,8 @@ import Button from "../Button";
 import Container from "../Container";
 import Play from "./Play";
 import Image from "next/image";
-import HeroImg from "@/Public/HeroImg.png";
-import BGHero from "@/Public/BGHero.png";
+import HeroImg from "@/public/HeroImg.png";
+import BGHero from "@/public/BGHero.png";
 
 export default function SectionHero() {
   return (
